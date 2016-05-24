@@ -1,0 +1,981 @@
+52e5ce3 (HEAD -> develop, origin/develop, origin/HEAD) Pagination Stick minor fix
+9d0603b 26417768 - [BUG][UI-Rev] Main navigation with wrong name on Validations page
+fd1932d Merge branch 'develop' of brcpsgits2:icheck/icheck-client into develop
+8e19465 26390054 - [BUG][UI-Rev] Pagination is not being fixed at the end of the page
+812d9e3 26390054 - [BUG][UI-Rev] Pagination is not being fixed at the end of the page
+7edfd07 (tag: icheck-client-0.7.6) [release] 0.7.6
+21dbedd 26390054 - [BUG][UI-Rev] Pagination is not being fixed at the end of the page
+2210c16 (tag: icheck-client-0.7.5) [release] 0.7.5
+e2e0c09 Merge branch 'dev-vntrari' into 'develop'
+09fd281 fix for the mpn rules
+38b90b1 26197210 - [ENHANCEMENT] Add Select and Blank options to the MPN dropdown
+93cd607 Merge branch '26380546-bug-import-summary' into 'develop'
+7cf1a46 (origin/26380546-bug-import-summary) 26380546 - [BUG] MPN Data - Summary - Import results summary of one product is displayed to another
+e523f7a Merge branch 'dev-vntrari' into 'develop'
+7b907be 26374176 - [BUG] - Products Administration - Error message on adding a new product should be different
+6246dd1 Updates in the MPN Rules envolving the Import
+25c88d9 Merge branch 'dev-vntrari' into 'develop'
+f3b1f11 Merge branch 'dev-vntrari' of brcpsgits2:icheck/icheck-client into dev-vntrari
+5129430 26355651 - [BUG] - RuleSets - Wrong message when try to download without plist
+51ce7f0 (26380546-bug-import-summary) 26369200 - [BUG] - Products Administration - Author icon is not showing user initials
+33615e0 Merge branch 'develop' of brcpsgits2:icheck/icheck-client into develop
+25b4a61 Fixing Mapping selection problem on then Column
+aeb2d3f Updated automated tests for SmokeTest (0.7.4)
+a65f3ca 26242979 - [BUG][UI-Rev] Fixes on Version Comparison page
+dee5b9f 26355651 - [BUG] - RuleSets - Wrong message when try to download without plist
+a63bbfb Change Variables in Validations fot the Then Column
+35400f0 Merge branch 'develop' of brcpsgits2:icheck/icheck-client into develop
+7cf6255 24482845 - [BUG] - RuleSets - Wrong message when download rules with DB unreachable
+a718bc5 (tag: icheck-client-0.7.4) [release] 0.7.4
+66d2192 Merge branch 'dev-vntrari' into 'develop'
+fbfe2c5 fix
+22e4194 minor fix
+2cb9a9c Fixes in MPN Rules
+6eb8e98 Merge branch 'dev-vntrari' into 'develop'
+34d2876 Updates in the MPN Rules and Summary
+c038f5a Merge branch 'dev-vntrari' into 'develop'
+46aadb9 26327774 - [BUG] - RuleSets - The .plist modal is changed during the.plist import
+f5a1759 merge conflict
+32e3c7c Fix in the Applying message
+a4dc484 26323274 - [BUG] MPN Data - Import - Wrong error message when trying to import with different template
+89939d3 25268213 - [ENHANCEMENT] - Import Mapping - Change the Import Mapping URL
+8b91585 26323164 - [BUG] Import Mapping - Wrong error message when adding duplicated mapping
+8046d8d 26323410 - [BUG] - Configure - Class tooltip is wrong
+7d3bab9 Fixing Validation Layout Break
+415750e Merge branch 'dev-vntrari' of brcpsgits2:icheck/icheck-client into dev-vntrari
+a5931a7 26323274 - [BUG] MPN Data - Import - Wrong error message when trying to import with different template
+7fc68c0 25268213 - [ENHANCEMENT] - Import Mapping - Change the Import Mapping URL
+9fb9865 26323164 - [BUG] Import Mapping - Wrong error message when adding duplicated mapping
+27b98b8 26323410 - [BUG] - Configure - Class tooltip is wrong
+86f7c78 26320757 - [BUG][UI-Rev] Split apply mapping and apply validation
+3e16fa8 26320757 - [BUG][UI-Rev] Split apply mapping and apply validation
+f2f8476 26346402 - [BUG] - Configure - The message is over the test condition button when type=value
+07e12bc Merge branch 'develop' of brcpsgits2:icheck/icheck-client into develop
+c657e65 26242979 - [BUG][UI-Rev] Fixes on Version Comparison page
+cb9fc44 25268213 - [ENHANCEMENT] - Import Mapping - Change the Import Mapping URL
+eeaa88c 26323164 - [BUG] Import Mapping - Wrong error message when adding duplicated mapping
+b398425 26323410 - [BUG] - Configure - Class tooltip is wrong
+9ebb778 Merge branch 'dev-vntrari' into 'develop'
+4116628 fix in the apply validation
+0b8903b update smoketest
+18a0532 Merge branch 'dev-vntrari' into 'develop'
+de344ce Apply Validation
+fd73fd3 (tag: icheck-client-0.7.3) [release] 0.7.3
+2e7fed4 Merge branch 'dev-vntrari' into 'develop'
+4a39963 Merge branch 'develop' of brcpsgits2:icheck/icheck-client into develop
+46dbef3 26326312 - [BUG] - Configure - Remove Import Mapping menu from Editor user
+9dd3468 Merge branch 'dev-vntrari' of brcpsgits2:icheck/icheck-client into dev-vntrari
+fb665bb 26322950 - [BUG] - Configure - Error after add mappings quickly
+cff50cd 26321103 - [BUG] - Configure - Reset Test Conditions button after click
+f8c9c63 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+13044f7 Updated automated tests for SmokeTest (0.7.2)
+2b0052d 26321103 - [BUG] - Configure - Reset Test Conditions button after click
+ec1c4f7 (tag: icheck-client-0.7.2) [release] 0.7.2
+eab6aeb Merge branch 'develop' of brcpsgits2:icheck/icheck-client into develop
+070a6df Fixing Delete button from repeat each row
+a36d77b Merge branch 'dev-vntrari' into 'develop'
+11a9eeb Merge branch 'dev-vntrari' of brcpsgits2:icheck/icheck-client into dev-vntrari
+0ff1355 25215657 - [BUG] - Menu - The Menu is not changed
+ee2cac1 Fixing a side-effect from the last commit
+b21a8e3 26296740 - [BUG] - Import Mapping - It is not possible to add new conditions
+d6dbdf7 26296903 - [BUG][UI-Rev] Test condition link is broken in the next line
+5f499d5 26302259 - [BUG] - Validation - After cancel the list of product is not displayed any more
+38e2d46 26302752 - [BUG] - Validation - Validation is not being disabled
+77c0590 25779474 - [ENHANCEMENT][UI-Rev] Make pagination fixed at the top of the page
+b55e87c 26296740 - [BUG] - Import Mapping - It is not possible to add new conditions
+cb940eb 26296903 - [BUG][UI-Rev] Test condition link is broken in the next line
+a841efb Removing placeholder from Validations validations iput
+153769b Merge branch 'dev-vntrari' into 'develop'
+a40fd4e Merge branch 'dev-vntrari' of brcpsgits2:icheck/icheck-client into dev-vntrari
+6c15146 Fix in the Import Mapping Test Condition in type = value
+b4358cd Fix in the Import Mapping Test Condition in type = value
+363cb0c 26242218 - [BUG][UI-Rev] Wrong text size on table column
+e857d12 (tag: icheck-client-0.7.1) [release] 0.7.1
+8d55817 Merge branch 'vntcapa-validations' into 'develop'
+fcb3a26 (origin/vntcapa-validations, vntcapa-validations) Merge with Develop
+716ddf8 gst
+cac3502 updates
+ff9b83d Minor Adjustments
+540f335 Changing Table Structure
+bfb1414 Copy Modal Adjustments
+e3ec67c Fix in the tables for multi conditions
+d9d9984 Copy from Product
+e79b22d Merge branch 'dev-vntrari' into 'develop'
+4a70c33 Validations
+f0d69f2 Copy from Product Modal
+8306eec Empty Validation message
+5f4bcb9 Project Name
+dadaa96 25905356 - [TASK][Import Mapping]Add test action in import mapping conditions
+0fa64df Add, Remove Sub and Main Items
+aab1520 Validations
+45b0e40 Validations
+88e00e8 Merge branch 'develop' of brcpsgits2:icheck/icheck-client into vntcapa-validations
+4b512b0 Small fix in README.md
+e14088f Merge branch 'dev-vntrari' into 'develop'
+2e0e839 26112719 - [TASK][Products] UI - Implement text field in Products table
+29a149e Fix readme with venturus and apple urls
+054a5cd Merge branch 'develop' of brcpsgits2:icheck/icheck-client into vntcapa-validations
+af527d3 updates
+d06ebb2 24741663 - [ENHANCEMENT] - Give feedback to user at Export and Download
+cd374a2 fixes in the validation
+e966ecc 25747909 - [ENHANCEMENT][UI-Rev] Changes on MPN table
+4a4e4ef 25828035 - [BUG] - RuleSets - The import button changes to importing.. and keeps disabled after import an Invalid field
+639e1ef 25905327 - [TASK][Gen Improv]Show warning message when importing plist rulesets and it exists
+39482dc Validations
+c1256ba Merge branch 'dev-vntrari' into 'develop'
+ae75100 Validations
+94e73fd 25243190 - [BUG] - Import Mapping - The last selected option should be selected in RuleSet set to Map after uncheck mark as blank field
+b13ce81 26001948 - [BUG] - MPN Rules - Error 440 is dysplayed when the MPNs are deleted
+d42e9dd Merge branch 'dev-vntrari' into 'develop'
+37b835b 25725612 - [BUG] - Import Mapping - Compare - Compare version button is being disabled by MPN Data and Import mapping
+05387e6 Merge branch 'dev-vntrari' into 'develop'
+cc1fc9a Fix for the Compare Filters
+e83cd66 Compare Filters DONE
+2470d67 Merge branch 'dev-vntrari' into 'develop'
+fead302 Compare Filters Update
+d4baf62 Merge branch 'vntcapa-sort' into 'develop'
+462590a (origin/vntcapa-sort, vntcapa-sort) 25905247 - [TASK][Table]Create support in UI for table sorting in MPN Rules, Change List, Products and MPN Rules Diff
+81d010e Changelist and Compare Version sort
+587ee50 updates in the compare - sort
+181c538 Sort
+ae2a03f Merge branch 'dev-vntrari' into 'develop'
+8035d02 update in the import mappings - RuleSet to Map
+1f29452 updates
+2215744 updates
+9260eef Merge branch 'dev-vntrari' into 'develop'
+25742d3 Merge branch 'dev-vntrari' of brcpsgits2:icheck/icheck-client into dev-vntrari
+b00a7f3 ctr-table ready for sorting
+356124e Fixed a scrollbar issue in the charts and included the Bower in the package.json
+99a6a43 Merge branch 'develop' of brcpsgits2:icheck/icheck-client into develop
+91c9a5f Removing Add mapping unnecessary Tooltip
+21b5e3f Fixed a scrollbar issue in the charts and included the Bower in the package.json
+2606cef (origin/vntcapa-bugfixing, vntcapa-bugfixing) Merge branch 'dev-vntrari' into 'develop'
+4491dcb (tag: icheck-client-0.7.0) [release] 0.7.0
+9325e70 update in the ember version
+fcf2fef [BUG] - MPN Rules - The letters are being deleted during the search
+39d5066 Merge branch 'dev-vntrari' into 'develop'
+57e1755 Fix in the MPN Rules Summary that was not updating
+d26f9dd Merge branch 'dev-vntrari' into 'develop'
+a529869 25905306 - [TASK][Import Mapping]Change import mapping UI to support multiple values
+339b7b4 Merge branch 'vntcapa-sprint4-desenv' into 'develop'
+5a07208 Merge with Develop
+4b5624f 25905316 - [TASK][Validation]Implement new UI to manage validations
+270fc7e Merge branch 'dev-vntrari' into 'develop'
+3f50621 update
+dfec0c6 25905365 - [TASK][MPN Rules]Show EEEE as a fixed column in all UI tables
+9389da4 updates
+66e3c12 updates
+c5f4703 Merge branch 'develop' of brcpsgits2:icheck/icheck-client into vntcapa-sprint4-desenv
+cabe7fb Merge branch 'vntcapa-bugfixing' into 'develop'
+3e0a230 25728329 - [BUG] - MPN Data - Missing error notification at timeout of Full Import
+693833f 25747704  - [BUG] - Import Mapping - After search for File Column (with 4 results) the hover effect in first option is displayed when using the keys up/down
+5732326 Merge branch 'develop' of brcpsgits2:icheck/icheck-client into vntcapa-bugfixing
+81c0a66 25905343 - [TASK][Compare]Implement UI to search in mpn rules diff
+b960bc4 Merge branch 'dev-vntrari' into 'develop'
+53602a7 update
+d2bf28e Fix in error handling and tab scss error
+a09b495 Merge branch 'vntcapa-sprint4-desenv' into 'develop'
+eee27db 25905323 - [TASK][Gen Improv]Change label 'Modifies' in import summary
+4f810d2 Merge branch 'develop' of brcpsgits2:icheck/icheck-client into vntcapa-bugfixing
+c9c13f1 (tag: icheck-client-0.6.4) [release] 0.6.4
+0a21bdd Merge branch 'vntcapa-bugfixing' into 'develop'
+906374d Merge branch 'dev-vntrari' into 'develop'
+bfae0b3 Merge branch 'dev-vntrari' of brcpsgits2:icheck/icheck-client into dev-vntrari
+ca076e0 Fix for misalignment in some filter labels
+93ad951 Fix for misalignment in some filter labels
+1a44fc0 Merge branch 'dev-vntrari' into 'develop'
+dd4673e Bugs 25828153 and 25828303
+3af933e Fix in the compare when changing the tabs
+3efd3f7 Merge branch 'develop' of brcpsgits2:icheck/icheck-client into vntcapa-bugfixing
+f0d51dd Merge branch 'dev-vntrari' into 'develop'
+4a75cbc 24482519 - [ENHANCEMENT] - Change List - Change the Change List URL to http://localhost:3000/#/changelist
+63f645c Merge branch 'develop' of brcpsgits2:icheck/icheck-client into vntcapa-bugfixing
+67f65df 25747977 - [ENHANCEMENT][UI-Rev] Product filter on Change List link from MPN Rules page
+4b5ec95 25805888 - [BUG] - Import Mapping - Compare - 404 error when the compare tab is changed
+09b00d1 25747917 - [BUG] - MPN Rules - Filter for invalid MPN is not enable/disable at Import (need to refresh)
+e4ad02c 25747607 - [BUG] - Import Mapping - Tab is not scrolled to the new mapping
+1155877 Ember upgrade and changes to fix deprecation warnings
+ed3c7d2 Merge branch 'dev-vntrari' into 'develop'
+ed26c82 - 25778074 - [BUG] - Import Mapping - Compare - Misaligned content
+78b5db7 25730605 - [BUG] - Import Mapping - It is possible delete columns without DB connection
+1619598 - 25678301 - [BUG] - Manual Import - MPN Rules table must be loaded after full import with import mapping created
+9209434 Merge branch 'dev-vntrari' into 'develop'
+4515aaf bugfixing
+13cf2ce Merge branch 'vntcapa-bugfixing' into 'develop'
+9203180 Merge branch 'develop' of brcpsgits2:icheck/icheck-client into vntcapa-bugfixing
+724326b 25777388 - [ENHANCEMENT][UI-Rev] Change values of items per page
+9475784 25776970 - [ENHANCEMENT] - MPN Rules - Click on above the text field will enable/disable the filter
+cec846f Merge branch 'dev-vntrari' into 'develop'
+b355b56 Bugfixing
+bb39b85 25748372 - [ENHANCEMENT][UI-Rev] Disable required when class is ignore
+4c0ec2e 25748424 - [BUG][UI-Rev] Version label misaligned in Compare Page
+f22dd64 25751930 - [ENHANCEMENT] - MPN Rules - Apply Mapping should be disabled when there is not import mapping
+1d7bd20 25679345 - [BUG] - MPN Rules - Search field returns empty value when used on page different than 1
+d3db67e (tag: icheck-client-0.6.3) [release] 0.6.3
+609b654 Merge branch 'dev-vntrari' into 'develop'
+860dff4 25585678 - BUG] - MPN Data - Compare - The versions should keep selection from previous page
+deca40a Merge branch 'vntcapa-bugfixing' into 'develop'
+e3c319b 25725472 - [BUG] - Manual Import - Summary is enabled to wrong product
+64808e3 Merge branch 'vntcapa-bugfixing' into 'develop'
+6a3a7d6 24482845 - [BUG] - RuleSets - Wrong message when download rules with DB unreachable
+79ec522 Merge branch 'dev-vntrari-filter' into 'develop'
+26ee601 (origin/dev-vntrari-filter) COMPARE > current in the left, last in the right
+0a4c1c8 Merge branch 'dev-vntrari-filter' into 'develop'
+d203458 functional filtering
+007595f (tag: icheck-client-0.6.2) [release] 0.6.2
+cc506b9 Merge branch 'vntcapa-bugfixing' into 'develop'
+9f1903d 25035099 - [ENHANCEMENT] - RuleSets - Give feedback to user during Import
+35027b9 25274041 - [BUG] - MPN Rules - Import Mapping, RuleSets and MPN Data (Full import) buttons must be hidden to Editor
+b5f55ba Merge branch 'dev-vntrari' into 'develop'
+d04ec70 Fix in the selected version
+7254a24 25634015 - BUG] - MPN Data - Compare - Must be a loading when user click to open Compare Versions page
+5392b6b Merge branch 'dev-vntrari' into 'develop'
+fb23fd7 Merge branch 'vntcapa-bugfixing' into 'develop'
+8f8dcb4 25319315 - [BUG] - MPN Rules - The last page must be changed to previous page when all MPNs are deleted
+0529226 25656669 - [BUG] - MPN Rules - Invalids MPNs with empty fields are being mapped to blank for read-only user
+3f06881 25415659 - [BUG] - Import Mapping - Not possible to select a product after press cancel in Copy from project pop-up
+b5ed6be Updated automated tests for SmokeTest
+664f724 (tag: icheck-client-0.6.1) [release] 0.6.1
+4254799 Merge branch 'dev-vntrari' into 'develop'
+7963b54 fix in compare when there is only one version
+2e97876 Merge branch 'dev-vntrari' into 'develop'
+e671e19 Compare > Import Mapping Fixes
+a04719d Merge branch 'vntcapa-bugfixing' into 'develop'
+00a784f Merge branch 'develop' of brcpsgits2:icheck/icheck-client into vntcapa-bugfixing
+a6065df Merge branch 'dev-vntrari' into 'develop'
+bc99f65 fix in the ctr-toggle-button
+d762bb9 25438245 - [ENHANCEMENT] - Manual Import - A piece of Full import message is missing
+d9fb333 Merge branch 'develop' of brcpsgits2:icheck/icheck-client into vntcapa-bugfixing
+6d13617 25553511 - [ENHANCEMENT] - Import Mapping - Change the notification “There are changes on the Import Mapping the can be applied.
+46128b2 25679021 - [BUG] - Import Mapping - Change the message of file column toop tip when there is not build matrix imported
+e9bfb1b Rename summary attribute from regionCode to region_code
+6fdecf8 25653984 - [BUG] - Import Mapping - Not possible to select an option using <enter>
+cedaef8 fixed file column in import mapping
+2d5caf1 Use lastModified attribute instead of updatedAt
+81e3a1b Updated automated tests for SmokeTest
+ebb732b quickfix in the logout
+0419e0c quick fix
+1f3f3f8 Logout fix
+e412370 Removed the double selected state in the ctr-select
+1a2967c translated the values of the diff > import mappings > results header > Type and Class
+e01be9a (tag: icheck-client-0.6.0) [release] 0.6.0
+176a0cc Fix for Compare Dictionary
+25dd727 Compare MPN Rule for user non-admin
+345cbc8 Fixed a typo in the summary > changed
+86ca0a6 Fix in the template link
+b18c5b6 removed the template link and the warning message for the first import
+d51e717 Fix in the DIFF
+f974fc7 Save with ENTER in the ctr-select
+eb8e9f1 Not in this Version >> Compare / Import Mapping
+9ef8952 enables the import after the full import
+92155e2 Better authentication handle and Disable Import in there is no agile file
+fbb5325 Import Summary graph is not displayed after Compare
+fe82818 First condition should be added by default when Adding new mapping
+cff2c12 Dictionary > Dont save on blur
+5dfcb10 Scrolling in the tab list after deleting
+29f0eaf Importing... plist
+39fc987 Download template
+fdf8236 Disable Compare when there is no version, and Ignore in the Dictionaries
+1d8ad76 Fix in the Compare > Dictionary
+8747524 Show updated_at attribute on MPN Rules table
+ddbc8ed compare > dictionary improvements
+b1e23b2 summary is back
+097f7e6 Bugfix: Import Mapping > reset class value when type changes to Value
+2481f26 quick fix
+91058fc removed a debugger
+f6cbc3b Bugfix: Invalid MPN Only to disable when has no invalid values
+6ff4f04 updates
+e94b76e updates
+8c95e84 25387824 - [BUG] - Manual Import - Disable the Import button while the Full Import is not imported
+bdb7186 Adding Border to a Tabble Cell on Hover (Compare Import Mapping) and adding White Background at Blank Placeholder
+01c1924 Fixing Compare Table Hover Issue
+1c81f90 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+26f383a Merge branch 'develop' of brcpsgits2:icheck/icheck-client into develop
+2ba141c Fixing Apply Filter Label alignment
+175b7fc 25575001 - BUG] - MPN Data - Compare - The last version created is not listed in combo box when the compare version is opened
+4db5aed Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+b63d284 Automated tests for SmokeTest
+909efe8 25412127 - [BUG] - Import Mapping - Change Copy from Project to Copy from Product
+6382241 Merge branch 'vntcapa-bugfixing' into 'develop'
+6c65bc3 Merge branch 'develop' of brcpsgits2:icheck/icheck-client into vntcapa-bugfixing
+ace1c50 Merge branch 'dev-vntrari' into 'develop'
+955d864 updates
+1a1c2b7 25559944 - [BUG] - Import Mapping - Compare - The fields highlighted are wrong when the type is changed
+220fa5b 25492642 - [BUG] - MPN Rules - The pagination is changed to first page after the refresh
+add813b Bugs 25443346 and 25463218
+fab64f4 Merge branch 'dev-vntrari' into 'develop'
+c8ae49d 25419654 - [BUG] - Import Mapping - Class must be only Value and Array to user select
+97456b2 25388605 - [BUG] - Manual Import - Not possible to select a file in Import after press cancel in pop-up
+90d8614 25274041 - [BUG] - MPN Rules - Import Mapping, RuleSets and MPN Data ((Full import) buttons must be hidden to Editor
+9c01213 24675739 - [BUG] - MPN Rules - Selection of filtering options is not being limited
+9c101ed 25580226 - [BUG] - MPN Rules - Two requests are made when the filter is enabled
+e1ee2be bugfix
+61e356f 24731783 - [BUG] - MPN Rules - Complete list of options in droplist is not displayed in last row.
+b95f9ab Merge branch 'dev-vntrari' into 'develop'
+285f476 Fixed a bug in the Compare page on ctr-select
+561e454 Merge branch 'dev-vntrari' into 'develop'
+fc0eac3 fixed an error in mpn rules > import plist
+e1506f9 Merge branch 'dev-vntrari' into 'develop'
+27b294a fixed the links from mpn rules to compare
+09bef59 update in models
+f89bed8 general bugfixes
+fc17750 25390975 - [BUG] - Import Mapping - Not possible to select an option using key Up/Down
+d2af388 Merge branch 'dev-vntrari' into 'develop'
+9953862 fix in diff dictionary
+dd1a80f Merge branch 'dev-vntrari' into 'develop'
+c1502c1 fix in the label of the empty state
+3e4944a fix
+063758e Fix in the Summary
+ec259c3 Merge branch 'dev-vntrari' into 'develop'
+4dc42cb quickfix
+8148f05 Merge branch 'dev-vntrari' into 'develop'
+8f01122 Merge branch 'dev-vntrari' of brcpsgits2:icheck/icheck-client into dev-vntrari
+3a66586 Merge branch 'vntcapa-bugfixing' into 'develop'
+4e1e8a5 updates
+abfc912 25267649 - [BUG] - Import Mapping - The RuleSet to Map imported to Product N71 is available for all other products
+7f7a289 updates
+e7f7f73 25267649 - [BUG] - Import Mapping - The RuleSet to Map imported to Product N71 is available for all other products
+0a77d8e Merge branch 'dev-vntrari' into 'develop'
+3f5b2dd 24653912 - [BUG][UI-Rev] Fix error message when there is no dictionary set and user tries to apply
+020f0cf 25583223 - [BUG] - Import Mapping - Import Mapping modification warning must not be displayed to Editor user
+051c6f4 25582994 - [BUG] - Import Mapping - Compare - The version hour is wrong
+776b3ca BugFixing
+1107b98 Merge branch 'dev-vntrari' into 'develop'
+72a0812 25411738 - [BUG] - Import Mapping - The list of Product is broken when there are lot of them
+7869903 25412127 - [BUG] - Import Mapping - Change Copy from Project to Copy from Product
+4b94768 25420215 - [BUG] - Import Mapping - The UI is broken when 18 columns are added
+695554a fix in the compare dictionary table
+70b6ca8 bugfixing
+02787f7 (tag: icheck-client-0.5.2) [release] 0.5.2
+7b9f2e4 Merge branch 'dev-vntrari' into 'develop'
+09cae39 fix in the filter mpn rules
+df1b80f Merge branch 'dev-vntrari' into 'develop'
+c67e371 update
+ac5cd67 Merge branch 'dev-vntrari' into 'develop'
+074b7b7 quickfix
+b1bc806 Merge branch 'dev-vntrari' into 'develop'
+84b00db filter in mpn rules
+fc18f79 25420215 - [BUG] - Import Mapping - The UI is broken when 18 columns are added
+8eb8083 Merge branch 'dev-vntrari' into 'develop'
+f0fefe8 Fix in the MPN Rules navigation and interactions
+c37f10e 25397364 - [InfoSec Security:HIGH] Privilege Escalation / Authorization Bypass
+b22602e (tag: icheck-client-0.5.1) [release] 0.5.1
+022345e Merge branch 'dev-vntrari' into 'develop'
+9ad9418 update
+d34b755 Merge branch 'dev-vntrari' into 'develop'
+d8e57ba update
+cf7aa95 Merge branch 'dev-vntrari' into 'develop'
+768522b update
+05bfc98 25397280 - [InfoSec Security:HIGH] Persistent Cross-Site Scripting (XSS)
+0c04986 (tag: icheck-client-0.5.0) [release] 0.5.0
+faa5ff0 Merge branch 'dev-vntrari' into 'develop'
+c55433f removed a missing debugger
+884ab73 Updated
+281ce3e updates in filter
+c926b48 filter working but with no url update
+0dc8bce updates
+b1fd1f2 new filter
+38a60c5 Merge branch 'dev-vntrari' into 'develop'
+d456ab0 Fix in the DIFF Dictionary
+6037194 Merge branch 'dev-vntrari' into 'develop'
+3ec426d quick fix
+4489c2b Merge branch 'dev-vntrari' into 'develop'
+85d343e included the table-scroll in the dictionary diff
+116b64c Merge branch 'dev-vntrari' into 'develop'
+1aecc60 Enabled links to the Compare
+03198a3 TASK 25005987 Finished
+e605262 updates
+3ac123d build matrix diff OK
+c45f600 removed a debugger
+4121190 Merge branch 'master' of brcpsgits2:icheck/icheck-client
+980dd63 Fix merge issues
+55ed038 Fix merge issues
+61f4fbb Merge due to conflicts between develop and master
+0417fb6 (tag: icheck-client-0.4.2) [release] 0.4.2
+34d0390 Merge branch 'dev-vntrari' into 'develop'
+9b8d27b fix in the mpn rules import
+92ef902 Merge branch 'dev-vntrari' into 'develop'
+eb25e60 quick fix for login - user change
+b27639c bugfix
+d9e4288 Merge branch 'dev-vntrari' into 'develop'
+b22131c bugfixes
+c3addfb Merge branch 'dev-vntrari' into 'develop'
+64d4e4d bugfix
+cee4628 Merge branch 'dev-vntrari' into 'develop'
+beac18f update
+f44b6c4 Merge branch 'dev-vntrari' into 'develop'
+aadb7fb updates
+ac80db2 Merge branch 'dev-vntrari' into 'develop'
+afe33ee fix in the mpn rules product
+720ae41 updates
+fcfb21b Merge branch 'dev-vntrari' into 'develop'
+b39c386 fix
+23a7506 Merge branch 'dev-vntrari' into 'develop'
+b0764ae Tasks 25006057 and 25006038 completed
+8778781 updates pre-rebase
+bec055e [release] 0.4.1
+a39ffa6 fixed the export csv button
+1989b69 fix in the filter list
+d8489e6 updates
+97f2356 updates
+5f31e26 updates
+01da861 fix in the add condition > mappingId
+e2110bf fix in the mpn rules delete item
+bf5100d updates
+b322df3 fixed 25238786
+914d3e3 updates
+a737acd changed the mpn rules route in adapter to match the new server route
+f3682ac updates and fixes
+edebd21 updates
+2ef05fc updates
+e1b7458 updates
+110ed28 updates
+a32091f updates
+72b1c9d removed the compare menu
+0c121ae Fixed bug - 25222963
+5952630 updates and bug fixing
+16d7ff7 temporary change to enable the logging in the production and test environment
+1ad51fe updates
+a205a1d updates
+087ec67 (tag: icheck-client-0.4.1) [release] 0.4.1
+ccf4424 Merge branch 'hotfix-vntrari' into 'hotfix'
+b80c7a8 fixed the export csv button
+3bc9924 Merge branch 'hotfix-vntrari' into 'hotfix'
+7ea03e3 fix in the filter list
+aa1d467 updates
+e4f483c Merge branch 'hotfix-vntrari' into 'hotfix'
+17c5537 updates
+cd23a19 updates
+25633a2 fix in the add condition > mappingId
+1d7467c fix in the mpn rules delete item
+6b9c472 updates
+d9a2642 Merge branch 'hotfix-vntrari' into 'hotfix'
+37dd185 fixed 25238786
+f3db406 updates
+36a2637 Merge branch 'hotfix-vntrari' into 'hotfix'
+f958f64 changed the mpn rules route in adapter to match the new server route
+a57c042 updates and fixes
+49d91b0 Merge branch 'hotfix-vntrari' into 'hotfix'
+3da1672 updates
+47caddf updates
+5c30204 updates
+7ae0768 updates
+1626a66 updates
+526e4cb removed the compare menu
+9146f26 Fixed bug - 25222963
+aec279e updates and bug fixing
+f04ebc2 Merge branch 'dev-vntrari' into 'develop'
+a5e6da8 temporary change to enable the logging in the production and test environment
+50e1ace updates
+0425063 updates
+85143c0 Merge branch 'master' of brcpsgits2:icheck/icheck-client
+943ed4b Merge tag 'icheck-client-0.4.0'
+422f3c3 (tag: icheck-client-0.4.0) [release] 0.4.0
+2556ff1 Merge branch 'dev-vntrari' into 'develop'
+6f0c10c Adaptations in the MPN Rules to remove the options of tasks not finished
+1b2b2f8 TASK 25006048 finished
+f5970e8 updates
+33ccf16 fix in login transition
+7e5711f Merge branch 'dev-vntrari' into 'develop'
+432556c fix in the dictionary deleting tab
+3702343 Improved error handlers and some bugs fixed
+527a1c6 Merge branch 'dev-vntrari' into 'develop'
+c9070ae Empty State for Read-Only user in MPN-RUles
+9b656a7 Task 25005994 and other fixes
+2a3dc79 general fixes
+4652a9d general fixes
+675ead4 Fixes and circular chart component
+188a363 Merge tag 'icheck-client-0.3.8'
+de388f9 (tag: icheck-client-0.3.8) [release] 0.3.8
+b8285bd Merge branch 'dev-vntrari' into 'develop'
+45825e8 fix in the login redirect
+c702807 Merge branch 'dev-vntrari' into 'develop'
+c680b9b Bugfixing and trash icon in mpn table is now fixed at the right
+7cb25d4 Updates, Fixes and Auto-number in the Untitled Tabs
+fe2cf32 Merge branch 'dev-vntrari' into 'develop'
+9b553f6 updated the ember-simple-auth
+ac878b9 Merge branch 'dev-vntrari' into 'develop'
+ebb852b Update in Ember version
+f6c23d1 Merge branch 'dev-vntrari' into 'develop'
+f5de8d7 removed the console.log from popover
+ebd007a minor fix in the ctr-popover
+bcd1b86 Merge branch 'dev-vntrari' into 'develop'
+af9d659 console.log fixes
+a08335f fixed
+ef650cf Merge branch 'dev-vntrari' into 'develop'
+922777f updates and minor fixes
+a56565f dictionary to auto-redirect to the first tab
+8372aa4 Changes in the dictionary / conditions structure
+287cf85 updates
+9e5a591 ctr-select auto-check for the dropUp Property
+6648526 Updates
+a624b58 Possible fix for the dictionary tabs bug
+a6feb6a updates
+d12632d general updates
+6ef878e Automated tests for Products
+a04146d Automated tests for Login
+3d63745 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+b8c3681 Test Jenkins job
+ea15694 Test Jenkins job
+c7a9c97 Test Jenkins job
+93373af Test Jenkins job
+6fae1d4 Test Jenkins job
+128b711 Merge tag 'icheck-client-0.3.7'
+13ee15f (tag: icheck-client-0.3.7) [release] 0.3.7
+e058ef4 Merge branch 'dev-vntrari' into 'develop'
+c34d1e9 fix for build
+a0e9a44 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+4ce06ee (tag: icheck-client-0.3.6) Merge branch 'dev-vntrari' into 'develop'
+7654d53 update version
+698914a last updates
+94ea8e3 Merge branch 'dev-vntrari' into 'develop'
+dc5d1f6 fixed JUnit errors and a small bug in dictionary > Type: Value > Enable Button
+feedd58 Merge tag 'icheck-client-0.3.5'
+bbf6801 (tag: icheck-client-0.3.5) [release] 0.3.5
+fb7eda2 Merge branch 'dev-vntrari' into 'develop'
+86a4888 reverting changes in the bower / package.json
+b3eded0 Fix in the MPN > Delete - now the list is refreshing
+7ccb810 more ui fixes
+02a42b9 Fix in the Dictionary tooltip
+9534df2 Merge tag 'icheck-client-0.3.4'
+da5f5e1 (tag: icheck-client-0.3.4) [release] 0.3.4
+5078ac0 Merge branch 'dev-vntrari-new-chosen' into 'develop'
+8474c63 updates in the None values
+cfeeeaf Merge branch 'dev-vntrari-new-chosen' into 'develop'
+e121d8b Updates for UAT
+85d46ca Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+ed11a56 Merge branch 'dev-vntrari-new-chosen' into 'develop'
+f914c87 Updates
+ecac613 updates
+4b118fb new chosen restyled
+3359e86 pre-chosen-restyle
+7ef8ccb Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+0e5e40b Merge branch 'dev-vntrari-new-chosen' into 'develop'
+a0cef30 updates ready
+0ebf628 chosen redone and ctr-input-search
+dc921e9 chosen redone
+28019ed updates
+19787da updates
+5ea8bc2 Merge branch 'vntripa_bugfixing' into 'develop'
+b953512 (origin/vntripa_bugfixing) bugfixed generic - filter popover layout and checkboxes width
+3470edd bugfixed 24546455 - tooltip and button alignment
+0f3d8ec bugfixed 24654755 - dictionary label fixed
+0163406 bugfixed 24653937 - filters alignment
+48d203a bug 24527759 - no results found message
+3c0b9ad Merge tag 'icheck-client-0.3.3'
+91586af (tag: icheck-client-0.3.3) [release] 0.3.3
+105ece9 Merge branch 'dev-vntrari' into 'develop'
+f9d3274 Updates
+d9fd8b7 loading in the mpn rules
+b2f6912 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+f4e988c Merge branch 'dev-vntrari' into 'develop'
+7cf10a3 Fixed the error in the data validation (none) in the MPN Rules
+62a6396 Merge branch 'develop'
+56252fe (tag: icheck-client-0.3.2) [release] 0.3.2
+40709da Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+0dd91e3 Format number with commas
+211c711 Merge branch 'dev-vntrari' into 'develop'
+b952741 pre rebase
+1922971 Fixed 5 bugs
+5147555 Merge branch 'vntripa_bugfixing' into 'develop'
+8d03bec rebase
+f1642f0 bugfixed - header clear aligned
+2f05a9e bugfixed - popover orientation
+a992d7e Merge branch 'dev-vntrari' into 'develop'
+55bc1a4 removed some debuggers
+55b0f83 updates
+c0009d8 updates
+b079cf8 Merge tag 'icheck-client-0.3.1'
+03016fd (tag: icheck-client-0.3.1) [release] 0.3.1
+1f5c8da Fix ctr-select component
+175df14 Merge tag 'icheck-client-0.3.0'
+d22b403 (tag: icheck-client-0.3.0) [release] 0.3.0
+56eed02 Merge branch 'dev-vntrari' into 'develop'
+d3ca506 fix for the ctr-select
+dd2dcf1 Merge branch 'dev-vntrari' into 'develop'
+c3a6509 pre-rebase
+9857cc7 pre-rebase
+3d4040f fixes
+96c9aec Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+c3c1372 Merge branch 'vntripa_bugfixing' into 'develop'
+9005a0b bugfixed - search threshold only for mpn rules
+6c64ee5 Merge branch 'vntripa_bugfixing' into 'develop'
+6178b66 Avoid duplicated values on select
+6c55900 bugfixed - prevent scroll after click on dropdown
+20000f1 Merge branch 'dev-vntwikr' into 'develop'
+71f86ef (origin/dev-vntwikr) Change opcity row disabled
+94d6ad9 Merge branch 'dev-vntwikr' into 'develop'
+71ee85c [BUG] - All screens - When session expires the system must return to current screen
+d603892 bugfixex - popupver always centralizes unless set to left or right align
+456bf88 bugfixed - unclickable paginator
+3e57f04 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+2fc942a Merge branch 'vntripa_bugfixing' into 'develop'
+915bcce Merge branch 'develop' of brcpsgits2:icheck/icheck-client into vntripa_bugfixing
+314b43c bug 24701091 - footer fixes
+8b0484d Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+a44139d Merge branch 'dev-vntwikr' into 'develop'
+9248870 Adjust bugs
+ba67fb7 Merge branch 'dev-vntwikr' into 'develop'
+b6ee3c2 Adjust modal import rulesets
+9553b35 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+e030964 Merge branch 'dev-vntrari' into 'develop'
+bab0435 updates and bugfixings
+61d4995 Format number of results on Change List and MPN Rules views
+6062cd5 Input find in select options - according to UI spec
+330c68d <rdar://problem/24609109> [BUG] - Dictionary - Missing style to Delete confirmation modal
+87c41cc <rdar://problem/24654755> [BUG][UI-Rev] Wrong text on class help icon tooltip
+2bcac1d <rdar://problem/24647669> [BUG][UI-Rev] Import modal UI - Text and button label do not follow the UI spec.
+b6e909a Format number of results on Change List and MPN Rules views
+6497049 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+b2aa1ef Merge branch 'dev-vntwikr' into 'develop'
+d710c1b Input find in select options - according to UI spec
+10e5f72 Merge branch 'dev-vntwikr' into 'develop'
+94a62fa <rdar://problem/24609109> [BUG] - Dictionary - Missing style to Delete confirmation modal
+a894d44 Merge branch 'dev-vntwikr' into 'develop'
+fa98221 <rdar://problem/24654755> [BUG][UI-Rev] Wrong text on class help icon tooltip
+0f019a7 Merge branch 'dev-vntwikr' into 'develop'
+002151d <rdar://problem/24647669> [BUG][UI-Rev] Import modal UI - Text and button label do not follow the UI spec.
+c9b4de1 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+078ac03 Merge branch 'dev-vntrari' into 'develop'
+2097790 fix in the application adapter
+74dbe81 Bugs fixed, MPN Rules, Loading, Dictionary Performance
+c1bbbce Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+08e5845 Merge branch 'dev-vntwikr' into 'develop'
+9077b5c Remove class button disabled
+b3f2803 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+92f4309 Merge branch 'dev-vntrari' into 'develop'
+ca63ad9 quick fix in the auto-save
+4ef18d1 Updates
+d308568 Merge branch 'dev-vntwikr' into 'develop'
+c4e1cd7 <rdar://problem/24629310> [BUG][UI-Rev] Missing pulldown effect
+568c8b8 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+9002038 <rdar://problem/24629310> [BUG][UI-Rev] Missing pulldown effect
+c011a6e <rdar://problem/24627342> [BUG][UI-Rev] Fixes on products page
+6bb1dd9 Merge branch 'dev-vntrari' into 'develop'
+de03bc7 Fix in the expor .csv - MPN Rules
+7cd866c Merge branch 'dev-vntwikr' into 'develop'
+b0967cf <rdar://problem/24627401> [BUG][UI-Rev] Pagination UI issue
+2efbac9 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+8ac95c2 Merge branch 'dev-vntwikr' into 'develop'
+ebd7243 <rdar://problem/24627223> [BUG][UI-Rev] Wrong color on main navigation over effect
+26ee4d9 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+8cf0cf9 Merge branch 'dev-vntwikr' into 'develop'
+d9f7e43 Adjust class btn default
+69e5e85 Merge branch 'dev-vntrari' into 'develop'
+8026341 Fixes
+e16595f Merge branch 'dev-vntwikr' into 'develop'
+d340b73 resolve conflict
+34aded9  Adjust UI
+bbb44da  Adjust UI
+0fd8686 Merge branch 'dev-vntrari' into 'develop'
+b50ff46 Fix in the drag and drop tab
+0a54438 Merge branch 'dev-vntrari' into 'develop'
+372679c Tabs Drag and Drop OK and MPN Rules fixes
+ffe5f9d Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+b513478 Merge branch 'dev-vntwikr' into 'develop'
+fd01fe5 <rdar://problem/24629106> [BUG][UI-Rev] Selection on date range popover
+6abb189 Merge branch 'dev-vntwikr' into 'develop'
+1e4484f <rdar://problem/24629011> [BUG][UI-Rev] Missing gray line on table header
+3dc4ae1 Merge branch 'dev-vntrari' into 'develop'
+bfe60af drag and drop tabs
+d18f968 before rebase
+5f2dc31 Merge branch 'dev-vntwikr' into 'develop'
+83ca7ba <rdar://problem/24479367> [BUG] - Change List - When select the Date range the date is not selected on calendar and final date is always tomorrow
+1e93443 Merge branch 'dev-vntwikr' into 'develop'
+11bd762  <rdar://problem/24479201> [BUG] - Change List - The clear button does not clear the date selected
+b71e198 Merge branch 'dev-vntwikr' into 'develop'
+6f81b84 <rdar://problem/24611237> [BUG] - Dictionary - Remove condition is being disabled together with condition
+83ac3fc Merge branch 'dev-vntwikr' into 'develop'
+1f7077f <rdar://problem/24610513> [BUG] - Dictionary - Selected option is cleared when condition is set to None
+7b73973 <rdar://problem/24610513> [BUG] - Dictionary - Selected option is cleared when condition is set to None
+87aecc9 Merge branch 'dev-vntrari' into 'develop'
+e86eb31 enhancement in the ctr-input
+b8c9886 Merge branch 'dev-vntwikr' into 'develop'
+dfc4aee <rdar://problem/24609357> [BUG] - Dictionary - Wrong alignment for Condition options
+0342eb3 updates in the drag drop tabs
+5e9636f Dictionary tabs with drag and drop
+786bc97 Merge branch 'dev-vntwikr' into 'develop'
+44f9a62  <rdar://problem/24609244> [BUG] - Dictionary - White space is added by default to Condition field
+f8eedee Merge branch 'dev-vntwikr' into 'develop'
+d5088e1  <rdar://problem/24627079> [BUG] - Dictionary - Maps to Text = None is unchecked after refresh
+a1b77fa Merge branch 'dev-vntwikr' into 'develop'
+c8f0aa0 Apply settings
+34885ed Merge branch 'dev-vntwikr' into 'develop'
+6de6772 resolve conflict
+eb7edf9  Adjusts bugs mpnrules
+9528337  Adjusts bugs mpnrules
+056b673 (radar #24461948) Show date on 00-12 format
+2efe17e fix for redirect routes
+04f4c1a Added redirect to correct page
+35a63e7 Merge branch 'dev-vntrari' into 'develop'
+3dc1780 animation in the auto-save counter > mpn rules
+8688201 Empty-States for the MPN Rules
+ebd4a09 Updates in the paggination
+d0543c1 Merge branch 'dev-vntwikr' into 'develop'
+f18ac4b Add Enter to input text when autosave=true"
+539eccc Merge branch 'dev-vntwikr' into 'develop'
+fa16fd7 Message Last Save to Page Mpne Rules
+c4e39e9 Merge tag 'icheck-client-0.2.4'
+3c287d5 (tag: icheck-client-0.2.4) [release] 0.2.4
+b822529 Merge branch 'dev-vntrari' into 'develop'
+e27447e updates in the mpn rules
+59e9e93 Dictionary > Selecting the first tab as defult
+1c6eb47 Merge tag 'icheck-client-0.2.3'
+d50aa95 (tag: icheck-client-0.2.3) [release] 0.2.3
+4ebc9a1 Merge branch 'master' into develop
+e69c592 [release] 0.2.2
+c956602 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+142117a (tag: icheck-client-0.2.2) [release] 0.2.2
+4becb9b Merge branch 'dev-vntwikr' into 'develop'
+99aa365 table mpnrules
+89b38e4 Merge branch 'dev-vntwikr' into 'develop'
+f89651b Page mpnrules - add input text and select
+49da661 Merge branch 'dev-vntrari' into 'develop'
+92e6a43 Disclaimer in the glyphicons-all file
+f5f6d72 General Fixes and Updates
+c87d544 Merge branch 'dev-vntwikr' into 'develop'
+7c4b37a Fix mpnrules
+90ef733 Page mpnrules changed
+d34af43 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+23dfa29 Merge branch 'dev-vntrari' into 'develop'
+5ce6c1c Some fixes and adjustments in Dictionaries, Products and MPN Rules
+decfd0c bugfixes
+d807379 Commit pre-rebase
+09dfbf6 Merge branch 'dev-vntrari' into 'develop'
+9a0fba1 Bug fixing
+c63359e Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+0d9a99e Merge branch 'dev-vntrari' into 'develop'
+55791d3 Dictionary finished
+25c4f1c Merge branch 'dev-vntwikr' into 'develop'
+a3a18d3 page mpnrules
+b5cd799 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+6618724 page mpnrules
+e8eaebc Merge branch 'dev-vntrari' into 'develop'
+465d41d Dictionary
+1810998 updates pre rebase
+d8c55c7 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+0d7f405 Merge tag 'icheck-client-0.2.1'
+23da53a Merge tag 'icheck-client-0.2.0'
+3c3aa68 (tag: icheck-client-0.2.1) [release] 0.2.1
+01f02d8 Merge branch 'develop' of brcpsgits2:icheck/icheck-client into develop
+4b76ee9 Value class dictionary change
+f67c888 (tag: icheck-client-0.2.0) [release] 0.2.0
+11283de Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+eac4baa Merge branch 'dev-vntwikr' into 'develop'
+037c73b fix add column value
+3701d41 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+fce4fe8 Merge branch 'dev-vntwikr' into 'develop'
+8eae33b Add Tooltip button Add Column
+ce73d9d Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+d627d32 page dictionary
+c2e450b Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+fe8db3d Merge branch 'dev-vntwikr' into 'develop'
+97825e6 page mpnrules
+aad73f3 Merge branch 'dev-vntrari' into 'develop'
+c305ed4 updates
+e6695a0 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+ac5d07f Merge branch 'dev-vntrari' into 'develop'
+4b4f650 Dictionary 95% finished
+eac0b1b updates in the dictionary
+d808e85 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+557ef13 (tag: icheck-client-0.1.2) [release] 0.1.2
+cdd8f23 Merge branch 'dev-vntwikr' into 'develop'
+574971b Bug fix mpnrules products
+e3a14c2 Merge branch 'dev-vntwikr' into 'develop'
+323173c error merg
+68d3dba Merge branch 'dev-vntrari' into 'develop'
+21de947 update pos-merge
+4b82d0d updates in the dictionary and conditions
+a5a6191 Dictionary
+2411f77 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+533038c Merge branch 'dev-vntwikr' into 'develop'
+1759775 <rdar://problem/24409723> [BUG] - Products Administration - Pagination is workng only when 10 product per page is setted
+b07d8ae Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+daf0c50 Merge branch 'dev-vntwikr' into 'develop'
+e3704c2 <rdar://problem/24390671> [BUG] - Products Administration - The style is not working correctly when a new product is disabled  | <rdar://problem/24409723> [BUG] - Products Administration - Pagination is workng only when 10 product per page is setted
+19a420f Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+714c857 (tag: icheck-client-0.1.1) [release] 0.1.1
+8c81a62 Merge tag 'icheck-client-0.1.0' into develop
+c00f991 Merge branch 'dev-vntwikr' into 'develop'
+6ec6c82 <rdar://problem/24456766> [BUG] - Login - Page style does not follow UI spec
+65f5aab Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+9657cb3 Merge branch 'dev-vntwikr' into 'develop'
+68be59e Style data-picker change
+0635e19 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+b0f91d6 Merge branch 'dev-vntwikr' into 'develop'
+9f95f24 Merge branch 'dev-vntwikr' of brcpsgits2:icheck/icheck-client into dev-vntwikr
+2159343 MpnRules change import | export, and add model DIctionary
+96032c7 MpnRules change import | export, and add model DIctionary
+dffadb2 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+8d37db3 Merge branch 'dev-vntwikr' into 'develop'
+e45da89 Page mpnrules
+d266fc5 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+c197f20 Merge branch 'dev-vntwikr' into 'develop'
+9f39ffe page mpnrules  | Export | Import
+aed8ee3 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+a42bbac Updated Login TC after execution
+ab85f0d Merge branch 'dev-vntwikr' into 'develop'
+96543d8 page dictionary
+d05cdc8 Merge branch 'dev-vntrari' into 'develop'
+6a34070 Dictionary and fixed the Product Register
+8583a58 Merge branch 'dev-vntrari' into 'develop'
+85493a8 pre rebase
+b483c3a update pre-rebase
+ea90812 updates pre-rebase
+d7e12e6 Merge branch 'dev-vntwikr' into 'develop'
+44350ed page dictionary
+fbda992 Merge branch 'dev-vntwikr' into 'develop'
+3abb9f4 style aba dictionary
+d0a2f1d Dictionary Page
+730dfc4 cleanered some console.logs
+d4ec0c1 Fixed a bug in the filter pulldown
+a3b03bc router dictionary
+8df24e4 Page Dictionary
+6196673 page mpnrules
+1555914 Impor Rulesets
+169cbf0 Impor Rulesets
+8266e9c Consider 4 digits on year number
+9154742 Filters OK
+5275157 minor update
+165c1a9 filter groups and containers
+cb53a5e updates
+b7da6e9 Merge branch 'dev-vntwikr' into 'develop'
+4d463c2 Importa rulesets
+f264979 Merge branch 'develop' of http://brcpsgits2/icheck/icheck-client into develop
+bd3853b Merge branch 'develop' of brcpsgits2:icheck/icheck-client into develop
+035871d Test Change List updated
+21188f9 (tag: icheck-client-0.1.0) [release] 0.1.0
+15e00e1 Fix initial version number
+d90c8f4 Added npm rules for version generation
+5d7a0ec Updated TC for Login
+0d12752 fix in the datepicker
+dffcf94 merge conflict fix
+0f63c28 Merge branch 'dev-vntwikr' into 'develop'
+e02a507 Page login, products change
+c8b6f0a Merge branch 'dev-vntrari' into 'develop'
+4c1cfa4 components updates
+72736fb Merge branch 'develop' of brcpsgits2:icheck/icheck-client into develop
+49d1a5d add selenium test cases
+191c47b Merge branch 'dev-vntwikr' into 'develop'
+51e8978 Page product change
+effae27 message saving products change
+189589c Merge branch 'dev-vntwikr' into 'develop'
+b99d0d9 datapicker change
+690dfb3 Merge branch 'dev-vntrari' into 'develop'
+1a7bf98 pos merge
+17a1f0e Datepicker integrated with filters
+6bad1de updates and fix in the datepicker -> changelogs
+8b832bb update before rebase
+2911496 Merge branch 'dev-vntwikr' into 'develop'
+1dfc7e7 Pagination changed
+e70c616 Merge branch 'dev-vntwikr' into 'develop'
+c8486fa Page login
+6ad5e44 Adding tooltip component and included in the product page
+c40f92d Merge branch 'dev-vntrari' into 'develop'
+6e64f78 fix in the pagination
+f02b91d updates
+02b0b20 updates
+7cb4ba5 Merge branch 'dev-vntrari' into 'develop'
+5c82da4 updates with components, pagination,  products page and mpn rules
+d2d0e6a filter group component, pulldown and more
+ec064f3 Updates in the pagination, datepicker, Products and ChangeLogs
+2f90ee1 Merge branch 'dev-vntrari' into 'develop'
+b75d075 updates
+638ed3c updates before rebase - new helpers
+1d37def Page products - Button add prodcut disabled and new view table
+892d30d Minor fixes and Included the helper show-counter
+de65e65 Merge branch 'dev-vntwikr' into 'develop'
+e3ad9da pagination
+8e94bed Merge branch 'dev-vntrome' into 'develop'
+3f8b443 Show user photo on header
+22bb16c Merge branch 'dev-vntwikr' into 'develop'
+57c39d2 Page products - Button add prodcut disabled and new view table
+3429ea5 (radar #24257178) Added server version in footer
+92ff02f updates
+d75749a updates before rebase
+5743eee Merge branch 'dev-vntwikr' into 'develop'
+b7c12d1 Products - Bug show new product resolved
+3846346 Display user photo
+bd61f5a Fix authentication bug when changing to protected routes
+66a13fd Merge branch 'dev-vntwikr' into 'develop'
+34d2d23 Adjust css select-chose and insert placeholder to select
+3e25b0f Change from non-UI to nonUI
+712e9bb fix in the product's checkboxes
+8ee649e update in the dynamic ids in the <select>
+63134c9 implemented ids in the <select> for automated tests
+a694644 Merge branch 'dev-vntrome' into 'develop'
+3abe466 Fix profile component
+34c3955 Merge due to conflicts on product-table.hbs
+43b5910 Merge branch 'dev-vntrome' into develop
+dc30f11 Change the way products are fetched
+6f79ec7 Merge branch 'dev-vntrari' into 'develop'
+1671042 updates in components and ativated the notify when registering a product
+f315eb5 Merge branch 'dev-vntwikr' into 'develop'
+5012a32 Removed message securuty [Report Only]
+164b905 Merge branch 'dev-vntrari' into 'develop'
+759fb9f updates in components
+bb56ef9 Merge branch 'dev-vntrome' into 'develop'
+afbba0e Display the the user from session
+11bb714 fix in the products
+6c9fd35 Merge branch 'dev-vntrari' into 'develop'
+639bb75 fixed some minor errors and warnings
+6cbbfb5 updates
+c2ec6fa updates
+caea26c Merge branch 'dev-vntrome' into 'develop'
+ce60e4f Show the number of changes available on change log view
+121bad4 Merge branch 'dev-vntrome' into 'develop'
+3cef5e3 Apply HTML tags on messages
+d3c1fbf Merge branch 'dev-vntwikr' into 'develop'
+e094253 Bugs products page
+23af28b Fix in auth-simple module
+8c4c37a Merge branch 'dev-vntrari' into 'develop'
+9dd9a15 updates
+27155f5 update
+4ea6f8b updates
+e3b4ff5 updates
+e258b87 Login Page - included ID in the Button
+028175f updates
+3f74302 Bind change log data considering the association with user
+6872d08 Added partial login implementation
+fa80b10 Fix bug on available products select
+b9ee22c Updates - MPN Rules, Modal Component and fixed version at footer
+5e90c92 updates
+8fdac72 updates pre rebase
+4a5dbbf updates
+b3c4a82 update in the ctr-popover
+7d74f2f MPN Rules + Component Changes
+3fb8aeb fix in the products page
+553ad98 Minor fixes
+8e03adc Updates
+c4580c1 updates in the change-logs and some helpers and components created
+7dcf05d Adjustings
+ab3972b updates in the table component
+a231ff9 Add .DS_Store to .gitignore
+adde008 Fix dependency version
+e0a9dcb update in the package.json and bower.json
+ea99b15 update in README.md
+2eb6e13 Merge branch 'develop' of brcpsgits2:icheck/icheck-client into develop
+6729603 Fixed the disabled checkbox by toggle button in products page
+281da78 Fix bower.json for Ember 2.2.0.Beta.4
+12e4703 updates
+2a504a0 correction in the product model
+43d5b3f Updates in Product Admin page
+ce3976e Checkbox and Toggle Button Components DONE - with Autosave
+412251f fix in the Product Admin page mock data
+5ed52c8 included IDs in Product Admin page for automated tests
+7c971fa updates
+857e6db Updates
+eef9d08 Fix in the main-menu Dropdown effect
+4f0f27b update in bower.json
+daf94a5 Updates
+625ee0a client updates
+ce19d00 Citrine, components and more configurations
+f0cb83c update in the READ.md
+1b0ae52 update in the README.md
+6d46047 0.9.3
+fdfcc8b 0.9.2
+ed00767 updates
+5c51a4e 0.9.1
+b9b4d4f Update in the ember environment
+fe9e520 Ember Core Update with dependencies
+f1db81a Ember Core Files
